@@ -33,6 +33,15 @@ Destini 是一款沉浸式的互動故事 App。這不僅僅是一個簡單的�
 3. 選擇任何 iOS 18+ 的模擬器或真機進行執行。
 4. 開始你的冒險！
 
+## 📥 下載與啟用
+
+1. 從 GitHub 下載 ZIP（或使用 `git clone`），解壓後進入專案資料夾。
+2. 以 Xcode 開啟 `Destini-ios26.xcodeproj`。
+3. 選擇目標裝置：
+   - 模擬器：直接按 **Run**（⌘R）。
+   - 真機：在 Signing & Capabilities 選擇自己的 Team，接上裝置後按 **Run**。如系統提示，請到「設定 → 隱私權與安全性」啟用 Developer Mode。
+4. App 會安裝並啟動，無需額外權限設定。
+
 ## 👨‍💻 開發者
 
 由 **Antigravity** 與 **appfromape** 攜手打造，將傳統專案帶往未來。
