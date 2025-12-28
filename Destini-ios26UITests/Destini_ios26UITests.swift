@@ -2,7 +2,6 @@
 //  Destini_ios26UITests.swift
 //  Destini-ios26UITests
 //
-//  Created by 程式猿 on 2021/2/24.
 //
 
 import XCTest

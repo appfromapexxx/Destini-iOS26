@@ -2,7 +2,6 @@
 //  DesignSystem.swift
 //  Destini-ios26
 //
-//  Created by Antigravity on 2025/12/28.
 //
 
 import UIKit

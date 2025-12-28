@@ -2,7 +2,6 @@
 //  StoryBrain.swift
 //  Destini-ios26
 //
-//  Created by 程式猿 on 2021/2/24.
 //
 
 import Foundation

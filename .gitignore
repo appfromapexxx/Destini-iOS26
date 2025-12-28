@@ -1,0 +1,25 @@
+# OS X
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+.derivedData/
+*.hmap
+*.ipa
+*.playground.xml
+/Playgrounds
+*~.nib
+**/xcuserdata/
+**/*.xcuserstate
+
+# Swift Package Manager
+.build/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Git
